@@ -1,0 +1,10 @@
+{
+  "name": "KIDORA Quest",
+  "short_name": "KIDORA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f5ff",
+  "theme_color": "#6c35ff",
+  "description": "A game-based AI-integrated English storyworld for young learners.",
+  "icons": []
+}
